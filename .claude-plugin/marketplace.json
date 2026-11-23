@@ -1,0 +1,14 @@
+{
+  "name": "social-research-reader",
+  "owner": {
+    "name": "The Ask Why Company",
+    "url": "https://github.com/theaskwhy"
+  },
+  "plugins": [
+    {
+      "name": "social-research-reader",
+      "source": "./",
+      "description": "Read and compare public social content with clear evidence layers, source links, coverage limits, privacy safeguards, and no unauthorized access or unapproved spending."
+    }
+  ]
+}

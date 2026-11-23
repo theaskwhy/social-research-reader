@@ -1,0 +1,9 @@
+{
+  "name": "social-research-reader",
+  "description": "Read and compare public social content with clear evidence layers, source links, coverage limits, privacy safeguards, and no unauthorized access or unapproved spending.",
+  "version": "1.0.0",
+  "author": {
+    "name": "The Ask Why Company"
+  },
+  "license": "MIT"
+}
